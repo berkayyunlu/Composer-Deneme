@@ -1,0 +1,7 @@
+{
+    "require": {
+        "intervention/zodiac": "^3.0",
+        "intervention/image": "^2.7",
+        "apfelbox/php-file-download": "^2.1"
+    }
+}
