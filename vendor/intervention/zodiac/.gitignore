@@ -1,6 +1,0 @@
-.DS_Store
-.phpunit.result.cache
-composer.lock
-vendor/
-dev/
-.phpunit.result.cache
