@@ -2,6 +2,10 @@
     "require": {
         "intervention/zodiac": "^3.0",
         "intervention/image": "^2.7",
-        "apfelbox/php-file-download": "^2.1"
+        "apfelbox/php-file-download": "^2.1",
+        "guzzlehttp/guzzle": "^7.4",
+        "nesbot/carbon": "^2.58",
+        "symfony/dom-crawler": "^6.0",
+        "symfony/css-selector": "^6.0"
     }
 }
